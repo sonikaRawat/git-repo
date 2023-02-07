@@ -1,0 +1,8 @@
+* {
+    background-color: rgb(130, 199, 150, 0.5);
+}
+
+h1 {
+text-shadow: 2px 4px 5px;
+color: rgba(64, 19, 179, 0.5)
+}
